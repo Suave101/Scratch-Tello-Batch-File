@@ -1,0 +1,37 @@
+                                        Owners Manual
+
+
+
+Setup
+
+Step 1 | If you have not already downloaded Offline Scratch V2 do so using the link provided
+|||||||| Link: https://scratch.mit.edu/download/scratch2
+Step 2 | Download the Tello Scratch Program.js [You can move this file anywhere on your computer but,
+||||||||once you have picked a place to put it don't touch it]
+Step 3 | Set the directory on line six More information provided in the directory Setup section
+Step 4 | Move the batch file anywhere you want it
+Step 5 | Run the Program
+
+
+
+Directory Setup
+
+Step 1 | Open the batch file using a IDE
+Step 2 | Find line 6
+Step 3 | Go to your Tello.js Program
+Step 4 | Go to properties to find your directory
+Step 5 | Copy the directory
+Step 6 | Paste your directory before the words [cd ] don't forget the space between cd and the directory
+Step 7 | Save the file
+
+
+
+Running the file
+
+Step 1 | Open scratch V2 and hold shift while clicking the file button
+Step 2 | Click [Import Experimental HTTP Extension]
+Step 3 | find your tello.js folder and use the  file named [Tello.s2e]
+Step 4 | Run the batch file
+Step 5 | Code using the new blocks in scratch V2
+
+                            | Manual Written By: Alexander Doyle |
